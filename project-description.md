@@ -24,6 +24,16 @@ Currently, there is not a free and open source user interface available for Trit
 * Web development
 * Javascript development
 
+##### Alec's Skills
+* Front end web development (Angular preferred)
+* Back end web development (C# preferred)
+* Database management (SQL preferred)
+
+##### Alec's Interests
+* Web development
+* Javascript development
+* Android Development
+
 ### Team's approach to the problem
 We plan to document all steps and use the agile model to plan through completing this project. Our overall goals are to have a web interface where any user can:
 * Sign up for an account
