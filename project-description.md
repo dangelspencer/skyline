@@ -1,9 +1,9 @@
 # Project Skyline
 
 ### Team Members
-Matt Osbourne - osbourma@mail.uc.edu
-Alec Reser - reserad@mail.uc.edu
-Spencer Dangel - dangelsc@mail.uc.edu
+Matt Osbourne - osbourma@mail.uc.edu<br/>
+Alec Reser - reserad@mail.uc.edu<br/>
+Spencer Dangel - dangelsc@mail.uc.edu<br/>
 
 ### Faculty Advisor
 TBD - TBD@mail.uc.edu
@@ -16,8 +16,8 @@ Currently, there is not a free and open source user interface available for Trit
 
 ### Background Skills and Interests that are applicable to the problem
 ##### Matt's Skills
-* Front end web development (Angular preferred)
-* Back end web development (Noda preferred)
+* Front end web development (AngularJS preferred)
+* Back end web development (NodeJS preferred)
 * Database management (SQL preferred)
 
 ##### Matt's Interests
@@ -33,6 +33,17 @@ Currently, there is not a free and open source user interface available for Trit
 * Web development
 * Javascript development
 * Android Development
+
+##### Spencer's Skills
+* Client-side web development (Javascript, AngularJS, Typescript)
+* Server-side development (C#, NodeJS, Python)
+* Database management and development (SQL, EntityFramework, Sequelize)
+* Project collaboration software (Git)
+* Virtualization platforms (VMWare, Trito Data Center)
+
+##### Spencer's Interests
+* Web development
+* VM management
 
 ### Team's approach to the problem
 We plan to document all steps and use the agile model to plan through completing this project. Our overall goals are to have a web interface where any user can:
