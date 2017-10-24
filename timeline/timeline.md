@@ -1,4 +1,4 @@
-# Milestones List:    
+# Milestones List  
   
 ### Basic Scaffolding Milestone  
 The first milestone for our project is to finish all basic scaffolding required to get into the thick of the development work for this project. This milestone includes researching the Triton DataCenter API endpoints to decide on what features we can add and how we will communicate them from our application to the physical server running Triton DataCenter. This milestone also includes researching and deciding on what frontend, backend, and database frameworks we will use to complete this project. Finally, this milestone will also include the basic program and files to begin unit testing, which we will add to throughout the course of this project.  
@@ -26,3 +26,6 @@ The fourth milestone is to tie everything together by connecting the backend con
 |10|Create virtual machine instances list section on account management page |12/11/17|12/15/17|3|5,6,7|60%|15%|25%|
 |11|Create service to connect changes on frontend to the Triton DataCenter API|12/18/17|12/22/17|4|5,6,7|15%|20%|65%|
 |12|Create service to connect account detail changes to PostgresSQL database|12/26/17|12/29/17|4|5,6,7|10%|75%|15%|
+
+# Effort Matrix
+![Effort Matrix](https://github.com/dangelspencer/skyline/blob/master/timeline/effort_matrix.png)
