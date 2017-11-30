@@ -14,5 +14,5 @@
     * [Alec](https://github.com/dangelspencer/skyline/wiki/Professional-Biography:-Alec)
     * [Matt](https://github.com/dangelspencer/skyline/wiki/Professional-Biography:-Matt)
     * [Spencer](https://github.com/dangelspencer/skyline/wiki/Professional-Biography:-Spencer)
-9. Budget
+9. [Budget](https://github.com/dangelspencer/skyline/blob/master/budget/budget.md)
 10. [Appendix](https://github.com/dangelspencer/skyline/wiki/Appendix)
